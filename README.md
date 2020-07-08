@@ -7,4 +7,6 @@ $ pip install -r requirements.txt
 $ python FakeIdentityGenerator.py
 ```
 
-Contact Me : t.me/SelaxG
+Contact Me : [t.me/SelaxG][link]
+
+[link]: <https://t.me/SelaxG>
